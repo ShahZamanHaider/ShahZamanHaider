@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shahzaman786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah zaman haider" height="30" width="40" /></a>
 <a href="https://instagram.com/shahzaman_haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaman_haider" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the robotify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the robotify" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCquv7itkXXSevGqrtQ6-VDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therobotify" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
