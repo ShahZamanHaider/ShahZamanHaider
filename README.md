@@ -11,9 +11,9 @@
 <br><br>
 
 
-- 🔭 I’m currently working on **Arduino and ESP32 CAM Robot car with Machine Learning**
+- 🔭 I’m currently working on **Arduino and ESP32 CAM Robot car with Machine Learning Integrated and Chromium open source browser**
 
-- 💬 Ask me about **Robotics (Arduino, ESP32, PCB)**
+- 💬 Ask me about **Robotics (Arduino, ESP32, PCB), Chromium browser source code**
 
 - 📝 I regularly write articles on [www.therobotify.com](www.therobotify.com)
 
