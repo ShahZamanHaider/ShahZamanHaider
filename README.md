@@ -1,3 +1,4 @@
+![image](https://github.com/ShahZamanHaider/ShahZamanHaider/assets/155710993/99996956-147e-4e47-aff1-0a1cc1296090)
 <h1 align="center">Hi 👋, I'm Shah Zaman Haider</h1>
 <h3 align="center">A passionate Robotics Engineer from Pakistan</h3>
 
