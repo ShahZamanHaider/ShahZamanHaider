@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Robotics (Arduino, ESP32, PCB), Chromium browser source code**
 
-- 📝 I regularly write articles on [www.therobotify.com](www.therobotify.com)
+- 📝 I regularly write articles on [www.robetix.com](www.robetix.com)
 
 - 🌱 I’m currently learning **Raspberry Pi, ROS, Advance Electronics used in Robots**
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahzaman786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah zaman haider" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/engr-shahzaman-haider-a5709321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah zaman haider" height="30" width="40" /></a>
 <a href="https://instagram.com/shahzaman_haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaman_haider" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCquv7itkXXSevGqrtQ6-VDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therobotify" height="30" width="40" /></a>
 </p>
