@@ -11,15 +11,15 @@
 <br><br>
 
 
-- 🔭 I’m currently working on **Arduino and ESP32 CAM Robot car with Machine Learning Integrated and Chromium open source browser**
+- 🔭 I’m currently working on **ROS2, Drones, IoT and Chromium open source browser**
 
-- 💬 Ask me about **Robotics (Arduino, ESP32, PCB), Chromium browser source code**
+- 💬 Ask me about **Robotics (ROS, ESP32, PCB), Chromium browser source code**
 
 - 📝 I regularly write articles on [www.robetix.com](www.robetix.com)
 
-- 🌱 I’m currently learning **Raspberry Pi, ROS, Advance Electronics used in Robots**
+- 🌱 I’m currently learning **Advanced ROS2 implementation in UAV's and Drones**
 
-- 📫 How to reach me **shahzamanhaider90@gmail.com**
+- 📫 How to reach me **sz@robetix.com**
 
 - ⚡ Fun fact **I am funny**
 
