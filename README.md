@@ -28,7 +28,7 @@ I am a Robotics Engineer from Pakistan bridging the gap between hardware design 
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Robotics Middleware** | ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ROS&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS%201-22314E?style=flat&logo=ROS&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat) |
+| **Robotics Middleware** | ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ROS&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat) |
 | **Flight Stack** | ![ArduPilot](https://img.shields.io/badge/-ArduPilot-MH?style=flat) ![PX4](https://img.shields.io/badge/-PX4-blue?style=flat) ![MissionPlanner](https://img.shields.io/badge/-Mission%20Planner-green?style=flat) |
 | **Embedded & IoT** | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-red?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
@@ -39,12 +39,13 @@ I am a Robotics Engineer from Pakistan bridging the gap between hardware design 
 ### **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzamanhaider&show_icons=true&locale=en&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzamanhaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahZamanHaider&show_icons=true&locale=en&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahZamanHaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 
 <br>
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzamanhaider&theme=radical&no-frame=true&margin-w=15" alt="shahzamanhaider" /></a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzamanhaider&show_icons=true&locale=en&layout=compact" alt="shahzamanhaider" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzamanhaider&show_icons=true&locale=en" alt="shahzamanhaider" /></p>
