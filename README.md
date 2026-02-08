@@ -38,14 +38,16 @@ I am a Robotics Engineer from Pakistan bridging the gap between hardware design 
 
 ### **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahZamanHaider&show_icons=true&locale=en&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahZamanHaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShahZamanHaider&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Shah Zaman Haider Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahZamanHaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Shah Zaman Haider Languages" />
+</p>
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzamanhaider&show_icons=true&locale=en&layout=compact" alt="shahzamanhaider" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzamanhaider&show_icons=true&locale=en" alt="shahzamanhaider" /></p>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahZamanHaider&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /></a>
+</div>
