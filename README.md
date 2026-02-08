@@ -34,20 +34,3 @@ I am a Robotics Engineer from Pakistan bridging the gap between hardware design 
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | **OS & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
----
-
-### **GitHub Stats**
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShahZamanHaider&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Shah Zaman Haider Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahZamanHaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Shah Zaman Haider Languages" />
-</p>
-
-<br>
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShahZamanHaider&theme=radical&no-frame=true&margin-w=15" alt="Trophies" /></a>
-</div>
