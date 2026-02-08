@@ -1,42 +1,50 @@
-![image](https://github.com/ShahZamanHaider/ShahZamanHaider/assets/155710993/99996956-147e-4e47-aff1-0a1cc1296090)
-<h1 align="center">Hi 👋, I'm Shah Zaman Haider</h1>
-<h3 align="center">A passionate Robotics Engineer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzamanhaider&label=Profile%20views&color=0e75b6&style=flat" alt="shahzamanhaider" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzamanhaider" alt="shahzamanhaider" /></a> </p>
+# Hi, I'm Shah Zaman Haider from Pakistan 👋
+### Robotics & IoT Systems Engineer | ROS 2 Developer
+**Specializing in Autonomous Aerial Systems & Embedded Architecture**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzamanhaider/)
+[![Website Badge](https://img.shields.io/badge/-Robetix.com-000?style=flat&logo=Google-Chrome&logoColor=white)](http://www.robetix.com)
+[![Mail Badge](https://img.shields.io/badge/-sz@robetix.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sz@robetix.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShahZamanHaider.ShahZamanHaider)
 
+</div>
 
-<br><br>
+---
 
+### **Engineering Focus**
 
-- 🔭 I’m currently working on **ROS2, Drones, IoT and Chromium open source browser**
+I am a Robotics Engineer from Pakistan bridging the gap between hardware design and software intelligence. Currently completing my BS in Intelligent Systems & Robotics, I move beyond theory to deploy market-ready autonomous products.
 
-- 💬 Ask me about **Robotics (ROS, ESP32, PCB), Chromium browser source code**
+- 🔭 **Current Major Project:** Engineering an **Autonomous Hexacopter for Search & Rescue (SAR)** using ROS 2 (Jazzy) & Raspberry Pi.
+- 🌍 **Global Experience:** Shipped & Delivered working proto-types of IoT and Robotics Internationally
+- 🔬 **Research:** Published paper in International Conference Titled "An Intelligent Face Detection Attendance System with Real-Time Mobile Data Visualization"
+- 🏢 **Founder:** Building [Robetix](http://www.robetix.com), a hub for engineering resources.
 
-- 📝 I regularly write articles on [www.robetix.com](www.robetix.com)
+---
 
-- 🌱 I’m currently learning **Advanced ROS2 implementation in UAV's and Drones**
+### **Technical Stuff**
 
-- 📫 How to reach me **sz@robetix.com**
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Robotics Middleware** | ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ROS&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS%201-22314E?style=flat&logo=ROS&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat) |
+| **Flight Stack** | ![ArduPilot](https://img.shields.io/badge/-ArduPilot-MH?style=flat) ![PX4](https://img.shields.io/badge/-PX4-blue?style=flat) ![MissionPlanner](https://img.shields.io/badge/-Mission%20Planner-green?style=flat) |
+| **Embedded & IoT** | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-red?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
+| **OS & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
-- ⚡ Fun fact **I am funny**
+---
 
+### **GitHub Stats**
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzamanhaider&show_icons=true&locale=en&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzamanhaider&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
+<br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/engr-shahzaman-haider-a5709321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah zaman haider" height="30" width="40" /></a>
-<a href="https://instagram.com/shahzaman_haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaman_haider" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCquv7itkXXSevGqrtQ6-VDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="therobotify" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzamanhaider&show_icons=true&locale=en&layout=compact" alt="shahzamanhaider" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzamanhaider&show_icons=true&locale=en" alt="shahzamanhaider" /></p>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzamanhaider&theme=radical&no-frame=true&margin-w=15" alt="shahzamanhaider" /></a>
+</div>
