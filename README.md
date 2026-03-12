@@ -15,12 +15,14 @@
 
 ### **Engineering Focus**
 
-I am a Robotics Engineer from Pakistan bridging the gap between hardware design and software intelligence. Currently completing my BS in Intelligent Systems & Robotics, I move beyond theory to deploy market-ready autonomous products.
+I am an 8th-semester robotics engineering student focused on full-stack robotics from low-level microcontroller integration to high-level ROS 2 architecture. My core expertise is systems integration: making distinct hardware and software ecosystems communicate in real-world environments.
 
-- 🔭 **Current Major Project:** Engineering an **Autonomous Hexacopter for Search & Rescue (SAR)** using ROS 2 (Jazzy) & Raspberry Pi.
-- 🌍 **Global Experience:** Shipped & Delivered working proto-types of IoT and Robotics Internationally
-- 🔬 **Research:** Published paper in International Conference Titled "An Intelligent Face Detection Attendance System with Real-Time Mobile Data Visualization"
-- 🏢 **Founder:** Building [Robetix](http://www.robetix.com), a hub for engineering resources.
+### 🔬 Current R&D & Engineering Impact
+- **Autonomous Search & Rescue (SAR):** Leading the architecture of an autonomous hexacopter. Directly integrating **ROS 2 (Jazzy)**, **Raspberry Pi**, and **Pixhawk** for autonomous navigation and on-board processing.
+- **Applied Research:** Completed a robotics internship at the **National Centre of Artificial Intelligence (NCAI, NUST)**. Co-authored and published research on real-time embedded vision system using ESP32-CAM.
+- **Hardware Deployment:** Engineered, built, and shipped custom UAV and IoT prototypes to international clients, managing the complete development cycle.
+- **Robotics Services & Guide:** Founder of [Robetix](http://www.robetix.com), The National Intelligent Robotics Hub.
+- **Blog:** All my blog posts and articles [Blog](https://robetix.com/blog/)
 
 ---
 
@@ -33,4 +35,11 @@ I am a Robotics Engineer from Pakistan bridging the gap between hardware design 
 | **Embedded & IoT** | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-red?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
 | **OS & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+
+
+### GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahZamanHaider&show_icons=true&theme=transparent&hide_border=true&title_color=0e76a8" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahZamanHaider&layout=compact&theme=transparent&hide_border=true&title_color=0e76a8" height="150" alt="Top Languages" />
+</div>
 
