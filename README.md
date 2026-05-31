@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hi, I'm Shah Zaman Haider from Pakistan 👋
-### Robotics & IoT Systems Engineer | ROS 2 Developer
-**Specializing in Autonomous Aerial Systems & Embedded Architecture**
+### Robotics & IoT Systems Engineer | Learning ROS 2
+**Intelligent Systems & Robotics**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzamanhaider/)
 [![Website Badge](https://img.shields.io/badge/-Robetix.com-000?style=flat&logo=Google-Chrome&logoColor=white)](http://www.robetix.com)
