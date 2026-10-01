@@ -1,37 +1,133 @@
 <div align="center">
 
-# Hi, I'm Shah Zaman Haider from Pakistan 👋
-### Robotics & IoT Systems Engineer | Learning ROS 2
-**Intelligent Systems & Robotics**
+# Hi, I'm Shah Zaman Haider 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahzamanhaider/)
-[![Website Badge](https://img.shields.io/badge/-Robetix.com-000?style=flat&logo=Google-Chrome&logoColor=white)](http://www.robetix.com)
-[![Mail Badge](https://img.shields.io/badge/-sz@robetix.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sz@robetix.com)
+### Robotics & Autonomous Systems Engineer
+**BS Intelligent Systems & Robotics**
+
+I build systems that sense, decide, and act.
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=Google-Chrome&logoColor=white)](https://shahzaman.robetix.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahzamanhaider/)
+[![Robetix](https://img.shields.io/badge/-Robetix.com-000?style=flat&logo=Google-Chrome&logoColor=white)](https://robetix.com/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:shahzamanhaider90@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShahZamanHaider.ShahZamanHaider)
 
 </div>
 
 ---
 
-### **Engineering Focus**
+## Engineering Focus
 
-I am an 8th-semester robotics engineering student focused on full-stack robotics from low-level microcontroller integration to high-level ROS 2 architecture. My core expertise is systems integration: making distinct hardware and software ecosystems communicate in real-world environments.
+I am a Robotics & Autonomous Systems Engineer with a background spanning embedded systems, autonomous UAVs, ROS 2, onboard perception, flight control, and system integration.
 
-### 🔬 Current R&D & Engineering Impact
-- **Autonomous Search & Rescue (SAR):** Leading the architecture of an autonomous hexacopter. Directly integrating **ROS 2 (Jazzy)**, **Raspberry Pi**, and **Pixhawk** for autonomous navigation and on-board processing.
-- **Applied Research:** Completed a robotics internship at the **National Centre of Artificial Intelligence (NCAI, NUST)**. Co-authored and published research on real-time embedded vision system using ESP32-CAM.
-- **Hardware Deployment:** Engineered, built, and shipped custom UAV and IoT prototypes to international clients, managing the complete development cycle.
-- **Robotics Services & Guide:** Founder of [Robetix](http://www.robetix.com), The National Intelligent Robotics Hub.
-- **Blog:** All my blog posts and articles [Blog](https://robetix.com/blog/)
+My work focuses on taking ownership of the full engineering build, from sensors, microcontrollers, and communication links to autonomy software, perception, testing, and system-level integration.
 
 ---
 
-### **Technical Stuff**
+## Selected Engineering & Research Work
 
-| **Category** | **Technologies** |
+### Autonomous Search & Rescue Hexacopter
+- Developed an autonomous UAV system integrating **Pixhawk, Raspberry Pi 5, MAVLink, and onboard computer vision**.
+- Implemented **YOLOv8-based human detection**, autonomous mission logic, telemetry, and payload delivery.
+- Built and tested a browser-based ground control workflow for mission monitoring and waypoint interaction.
+- Awarded **1st Position at the IEEE Senior Design Project Exhibition — Robotics Class of 2026**.
+
+### Robotics Research — NCAI, NUST
+- Completed a research internship at the **National Centre of Artificial Intelligence (NCAI), NUST**.
+- Worked with **ROS 2 Jazzy, Gazebo, URDF/XACRO, Cartographer SLAM, Azure Kinect, and Jetson Nano**.
+- Developed and tested ROS 2 nodes, launch systems, simulation workflows, and autonomous robotics components.
+
+### Embedded Flight Control
+- Developed an **ESP32 + MPU6050 flight-control test platform**.
+- Implemented sensor processing, attitude estimation, PWM control, and live PID tuning.
+- Worked on embedded communication using **UART, I2C, SPI, and Wi-Fi**.
+
+### Engineering Deployment
+- Founder and Lead Systems Integrator at **Robetix**.
+- Built embedded, UAV, robotics, and IoT systems for international clients in **12+ countries**.
+- Delivered custom hardware and firmware projects from design and integration through testing and deployment.
+- Managed technical work across **20+ client projects**.
+
+---
+
+## Research
+
+Co-author of:
+
+**“An Intelligent Face Detection Attendance System with Real-Time Mobile Data Visualization”**
+
+Research interests include:
+
+- Autonomous Systems
+- Robotics
+- UAV Autonomy
+- Robot Perception
+- Embedded Intelligence
+- ROS 2
+- Navigation & SLAM
+- Human–Robot and Robot–Environment Interaction
+
+---
+
+## Technical Stack
+
+| Area | Technologies |
 | :--- | :--- |
-| **Robotics Middleware** | ![ROS2](https://img.shields.io/badge/-ROS%202-22314E?style=flat&logo=ROS&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat) ![Foxglove](https://img.shields.io/badge/-Foxglove_Studio-752466?style=flat) |
-| **Flight Stack** | ![ArduPilot](https://img.shields.io/badge/-ArduPilot-MH?style=flat) ![PX4](https://img.shields.io/badge/-PX4-blue?style=flat) ![MissionPlanner](https://img.shields.io/badge/-Mission%20Planner-green?style=flat) ![SITL](https://img.shields.io/badge/-SITL-333333?style=flat) |
-| **Embedded & IoT** | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-red?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![UART](https://img.shields.io/badge/-UART-555555?style=flat) ![I2C](https://img.shields.io/badge/-I2C-555555?style=flat) ![SPI](https://img.shields.io/badge/-SPI-555555?style=flat) |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| **OS & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **Robotics** | ROS 2 Jazzy · Gazebo · Cartographer SLAM · URDF/XACRO · Nav2 · MAVLink |
+| **Autonomous Systems** | UAV Autonomy · Mission Planning · Localization · PID Control · Sensor Integration |
+| **Computer Vision** | YOLOv8 · OpenCV · ONNX Runtime · ESP32-CAM |
+| **Embedded Systems** | ESP32 · Raspberry Pi · Arduino · 8051 · MPU6050 · PWM · ADC |
+| **Flight Systems** | Pixhawk · ArduPilot · Mission Planner · GPS · Telemetry |
+| **Communication** | UART · I2C · SPI · Wi-Fi · MAVLink |
+| **Programming** | C++ · C · Python · Embedded C |
+| **Platforms & Tools** | Linux · Ubuntu · Git · Docker · ROS 2 · Gazebo |
+
+---
+
+## Featured Systems
+
+### 🚁 Autonomous Search & Rescue UAV
+Autonomous aerial platform for immediate rescue response in unpredictable enviornments, combining onboard perception, mission control, navigation, telemetry, and payload delivery.
+
+### 🤖 ROS 2 Autonomous Robotics
+ROS 2 development involving simulation, robot description, SLAM, sensors, communication, and navigation workflows.
+
+### 🎛️ ESP32 Flight Controller
+Custom embedded flight-control platform using an ESP32 and MPU6050 with attitude estimation and PID control.
+
+### 🚗 Vision-Guided Mobile Robot
+ESP32-CAM-based robotic platform integrating embedded control with visual sensing.
+
+---
+
+## Robetix
+
+I founded **[Robetix](https://robetix.com/)**.
+
+- 👤 [Personal Portfolio](https://shahzaman.robetix.com/)
+- 🌐 [Company (Robetix)](https://robetix.com/)
+
+---
+
+## Currently Focused On
+
+- Advanced **ROS 2 development**
+- Autonomous robotics architectures
+- Robot perception and navigation
+- Embedded + robotics system integration
+- Research-oriented robotics engineering
+- Building and documenting engineering systems that can contribute beyond a single project
+
+---
+
+<div align="center">
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/shahzamanhaider/) •
+[Portfolio](https://shahzaman.robetix.com/) •
+[Robetix](https://robetix.com/) •
+[GitHub](https://github.com/ShahZamanHaider)
+
+</div>
