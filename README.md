@@ -33,7 +33,7 @@ My work focuses on taking ownership of the full engineering build, from sensors,
 - Built and tested a browser-based ground control workflow for mission monitoring and waypoint interaction.
 - Awarded **1st Position at the IEEE Senior Design Project Exhibition — Robotics Class of 2026**.
 
-### Robotics Research — NCAI, NUST
+### Robotics Research NCAI, NUST
 - Completed a research internship at the **National Centre of Artificial Intelligence (NCAI), NUST**.
 - Worked with **ROS 2 Jazzy, Gazebo, URDF/XACRO, Cartographer SLAM, Azure Kinect, and Jetson Nano**.
 - Developed and tested ROS 2 nodes, launch systems, simulation workflows, and autonomous robotics components.
