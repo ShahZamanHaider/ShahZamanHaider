@@ -21,7 +21,7 @@ I build systems that sense, decide, and act.
 
 I am a Robotics & Autonomous Systems Engineer with a background spanning embedded systems, autonomous UAVs, ROS 2, onboard perception, flight control, and system integration.
 
-My work focuses on taking ownership of the full engineering build, from sensors, microcontrollers, and communication links to autonomy software, perception, testing, and system-level integration.
+My work focuses on taking ownership of the full engineering build, from sensors, microcontrollers, and communication links to autonomy software, perception, testing and governance of AI agents running inside cyber physical systems so they can be reliable enough to be trusted.
 
 ---
 
